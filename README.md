@@ -1,2 +1,7 @@
-# visualize_tiobeindexpy
-Visualizing Programming Language Popularity using tiobeindexpy (based on TIOBE index) 
+# Visualizing Programming Language Popularity using tiobeindexpy 
+## (based on TIOBE index) 
+
+### Packages required:
+
++ `tiobeindexpy`
++ `seaborn`
